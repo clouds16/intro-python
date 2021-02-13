@@ -1,0 +1,6 @@
+1. This assignment took me 30 minutes
+2. I've used math library before, using the library
+was pretty straightforward 
+3. I was getting a math error somewhere in the formula, 
+and i just had to make sure that the formatting was right 
+(with proper use of parantheses and order of operations)
