@@ -1,0 +1,7 @@
+1) assignment took me about 2 hours
+
+2) Mad lib problem was the easiest
+
+3) had issues with the second problem , reading in file, and getting
+certain methods to work
+

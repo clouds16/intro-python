@@ -1,0 +1,6 @@
+1) This assignment took me about 30min - 1 hour
+
+2) The easiest assignment was the golf club helper
+
+3) The second problem took a bit longer, since required logic to check the
+values with a function
