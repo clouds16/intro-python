@@ -1,0 +1,10 @@
+1) This assignemtn gave me some difficulty. I probably spent 6 hours on this assignemtn.
+and i rewatched the videos multiple times.
+
+2) first assginment was the easiest
+
+3) I had good logic, but my program kept nopt generating values for the instance of the class that
+that was the value in the key-value pair. After many reworks of the code and iterations, i figured
+out that i was missing a __repr__ method in the claass, and that it was for printing the class . (kept 
+getting an object that was printing, but no values). also creating the dict took awhile to get to 
+a correct formatting
